@@ -1,0 +1,60 @@
+h1 {
+    color: cornflowerblue;
+}
+
+* {
+    font-family: sans-serif;
+    color: red;
+}
+
+#welcomeMessage {
+    color: aquamarine;
+}
+
+.text-black {
+    color: black;
+}
+
+.text-italic {
+    font-style: italic;
+}
+
+.card {
+    border: 2px solid lightslategray;
+    /* padding: 22px 26px 20px 22px; */
+    color: chocolate;
+    border-radius: 8px;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    overflow: scroll;
+}
+
+.separator {
+    margin-top: 16px;    
+}
+
+.black-card {
+    width: 215px;
+    height: 114px;
+    background-color: black;
+    color: white;
+    padding-top: 16px;
+    padding-left: 18px;
+    box-sizing: border-box;
+}
+
+.black-card-title {
+    font-size: 9px;
+    font-weight: 900;
+    color: white;
+    text-transform: uppercase;
+}
+
+.black-card-subtitle {
+    font-size: 7px;
+    font-weight: 500;
+    color: white;
+    text-transform: uppercase;
+    margin-top: 4px;
+}
